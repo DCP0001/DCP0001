@@ -1,5 +1,7 @@
 Hi, I’m Dhruv Patel
 ![Profile Views](https://komarev.com/ghpvc/?username=DCP0001&label=Profile%20Views&color=0e75b6&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=DCP0001&style=for-the-badge)
+
 
 Computer Engineering Student | Real-World System Builder
 
