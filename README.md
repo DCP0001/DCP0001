@@ -68,4 +68,4 @@ GitHub: https://github.com/DCP0001
 
 LinkedIn: (add your link)
 
-Email: (add your email)
+Email: dhruv.c.patel1312@gmail.com
