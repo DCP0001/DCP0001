@@ -1,34 +1,14 @@
 <!-- ================== ANIMATED SVG BANNER ================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-  type=waving&
-  color=0:0e75b6,100:1f2937&
-  height=220&
-  section=header&
-  text=Daman%20Patel&
-  fontSize=42&
-  fontAlignY=40&
-  desc=Computer%20Engineering%20Student%20|%20Real-World%20System%20Builder&
-  descAlignY=60&
-  animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1f2937&height=220&section=header&text=Daman%20Patel&fontSize=42&fontAlignY=40&desc=Computer%20Engineering%20Student%20|%20Real-World%20System%20Builder&descAlignY=60&animation=fadeIn" />
 </p>
+
 
 <!-- ================== TYPING ANIMATION ================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  size=26&
-  duration=3500&
-  pause=800&
-  color=58A6FF&
-  center=true&
-  vCenter=true&
-  width=900&
-  lines=Computer+Engineering+Student;
-  AI+%7C+IoT+%7C+Distributed+Systems;
-  Full-Stack+Application+Builder;
-  Focused+on+Practical+Deployments" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;AI+%7C+IoT+%7C+Distributed+Systems;Full-Stack+Application+Builder;Focused+on+Practical+Deployments" />
 </p>
+
 
 <!-- ================== VISITOR COUNTER ================== -->
 <p align="center">
