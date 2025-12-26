@@ -29,9 +29,6 @@ Backend architecture for real-time systems
 🔌 IoT & Embedded
 <p> <img src="https://skillicons.dev/icons?i=arduino" /> </p>
 
-🔥 Contribution Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=DCP0001&theme=github-dark&hide_border=true" /> </p>
-
 📈 Contribution Graph
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DCP0001&theme=github_dark" /> </p>
 
