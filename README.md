@@ -1,7 +1,23 @@
+<!-- ================== ANIMATED SVG BANNER ================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?
+  type=waving&
+  color=0:0e75b6,100:1f2937&
+  height=220&
+  section=header&
+  text=Daman%20Patel&
+  fontSize=42&
+  fontAlignY=40&
+  desc=Computer%20Engineering%20Student%20|%20Real-World%20System%20Builder&
+  descAlignY=60&
+  animation=fadeIn" />
+</p>
+
+<!-- ================== TYPING ANIMATION ================== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
   font=Fira+Code&
-  size=28&
+  size=26&
   duration=3500&
   pause=800&
   color=58A6FF&
@@ -10,14 +26,16 @@
   width=900&
   lines=Computer+Engineering+Student;
   AI+%7C+IoT+%7C+Distributed+Systems;
-  Real-World+System+Builder" />
+  Full-Stack+Application+Builder;
+  Focused+on+Practical+Deployments" />
 </p>
 
+<!-- ================== VISITOR COUNTER ================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DCP0001&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 Hi, I’m Dhruv Patel
-![Visitors](https://komarev.com/ghpvc/?username=DCP0001&style=for-the-badge)
-
-
 Computer Engineering Student | Real-World System Builder
 
 🎓 Student developer focused on AI, Distributed Systems, IoT, and Full-Stack Engineering
