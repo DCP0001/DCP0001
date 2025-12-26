@@ -1,7 +1,10 @@
 <!-- ================== ANIMATED SVG BANNER ================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1f2937&height=220&section=header&text=Daman%20Patel&fontSize=42&fontAlignY=40&desc=Computer%20Engineering%20Student%20|%20Real-World%20System%20Builder&descAlignY=60&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/DCP0001/DCP0001/main/mario.png"
+       alt="Profile Banner"
+       width="100%" />
 </p>
+
 
 
 <!-- ================== TYPING ANIMATION ================== -->
