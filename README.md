@@ -1,3 +1,21 @@
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  size=28&
+  duration=3500&
+  pause=800&
+  color=58A6FF&
+  center=true&
+  vCenter=true&
+  width=900&
+  lines=Computer+Engineering+Student;
+  AI+%7C+IoT+%7C+Distributed+Systems;
+  Real-World+System+Builder" />
+</p>
+
+
 Hi, I’m Dhruv Patel
 ![Visitors](https://komarev.com/ghpvc/?username=DCP0001&style=for-the-badge)
 
