@@ -1,4 +1,6 @@
 Hi, I’m Dhruv Patel
+![Profile Views](https://komarev.com/ghpvc/?username=DCP0001&label=Profile%20Views&color=0e75b6&style=flat)
+
 Computer Engineering Student | Real-World System Builder
 
 🎓 Student developer focused on AI, Distributed Systems, IoT, and Full-Stack Engineering
