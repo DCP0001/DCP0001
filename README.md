@@ -1,6 +1,6 @@
 <!-- ================== ANIMATED SVG BANNER ================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DCP0001/DCP0001/main/mario.png"
+  <img src="https://raw.githubusercontent.com/DCP0001/DCP0001/main/mario.gif"
        alt="Profile Banner"
        width="100%" />
 </p>
@@ -8,9 +8,7 @@
 
 
 <!-- ================== TYPING ANIMATION ================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;AI+%7C+IoT+%7C+Distributed+Systems;Full-Stack+Application+Builder;Focused+on+Practical+Deployments" />
-</p>
+
 
 
 <!-- ================== VISITOR COUNTER ================== -->
